@@ -57,7 +57,7 @@
     "axios": "^1.7.9",
     "cloudinary": "^2.5.1",
     "cors": "^2.8.5",
-    "country-flag-icons": "^1.5.13",
+    "country-flag-icons": "^1.5.14",
     "dayjs": "^1.11.13",
     "embla-carousel-react": "=7.1.0",
     "emoji-picker-react": "^4.12.0",
