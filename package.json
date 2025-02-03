@@ -37,7 +37,7 @@
     "@sentry/cli": "^2.40.0",
     "@sentry/nextjs": "^8.47.0",
     "@t3-oss/env-nextjs": "^0.10.1",
-    "@tabler/icons-react": "^3.27.1",
+    "@tabler/icons-react": "^3.29.0",
     "@tailwindcss/typography": "^0.5.15",
     "@tanstack/react-query": "^4.36.1",
     "@tiptap/extension-highlight": "^2.11.0",
